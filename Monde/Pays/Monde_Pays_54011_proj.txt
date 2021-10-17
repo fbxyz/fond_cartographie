@@ -1,0 +1,1 @@
+projection World_Eckert_V Aphylactique (EPSG 54011)

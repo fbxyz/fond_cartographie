@@ -1,0 +1,1 @@
+projection Albers Conique équivalente (EPSG 8568)

@@ -1,0 +1,1 @@
+projection Lambert azimuthal équivalente (EPSG 3035)
