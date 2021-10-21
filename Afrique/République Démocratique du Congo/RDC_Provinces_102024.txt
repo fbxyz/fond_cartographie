@@ -1,0 +1,1 @@
+projection Africa_Lambert_Conformal_Conic (EPSG 102024)
